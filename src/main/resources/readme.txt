@@ -1,0 +1,1 @@
+测试以 com.zcbspay.platform.demo.main.*.main 方法为入口
